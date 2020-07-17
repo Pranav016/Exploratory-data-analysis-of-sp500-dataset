@@ -30,14 +30,14 @@ Seaborn <br/>
 
 * Plot the highs of each month of the year 2015
 
-![Plot1](/plots/plot1.png)
+![Plot1](/plots/plot1.PNG)
 
 * On what date were the max volume of stocks traded and how many where ope
 
-![Plot2](/plots/plot2.png)
+![Plot2](/plots/plot2.PNG)
 
-![Plot3](/plots/plot3.png)
+![Plot3](/plots/plot3.PNG)
 
 * Which month has lowest Adj Close and plot the graph for all dates of 4th month
 
-![Plot4](/plots/plot4.png)
+![Plot4](/plots/plot4.PNG)
