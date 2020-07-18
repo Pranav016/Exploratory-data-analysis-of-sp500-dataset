@@ -32,7 +32,7 @@ Seaborn <br/>
 
 ![Plot1](/plots/plot1.PNG)
 
-* On what date were the max volume of stocks traded and how many where ope
+* On what date were the max volume of stocks traded and how many were open
 
 ![Plot2](/plots/plot2.PNG)
 
